@@ -1,0 +1,81 @@
+company_id,industry,company_size,package,run_payroll,live_attendance,request_time_off,open_payslip,view_report,churn
+CID1000,Financial Services,Medium,Starter,6.0,1851.0,17.0,302.0,11.0,0
+CID1001,Manufacturing,Small,Enterprise,2.0,321.0,9.0,67.0,1.0,1
+CID1002,Financial Services,Medium,Starter,5.0,467.0,11.0,309.0,8.0,0
+CID1003,Retail,Small,Starter,2.0,525.0,11.0,202.0,5.0,0
+CID1004,Retail,Small,Business,4.0,467.0,8.0,80.0,8.0,0
+CID1005,Hospitality,Medium,Starter,4.0,438.0,13.0,126.0,5.0,0
+CID1006,Financial Services,Medium,Business,3.0,1521.0,16.0,394.0,15.0,0
+CID1007,Financial Services,Small,Business,2.0,467.0,11.0,110.0,4.0,0
+CID1008,Retail,Small,Starter,2.0,367.0,8.0,58.0,10.0,0
+CID1009,Manufacturing,Small,Enterprise,4.0,1565.0,5.0,342.0,15.0,1
+CID1010,Manufacturing,Small,Starter,1.0,93.0,2.0,75.0,9.0,1
+CID1011,Retail,Medium,Business,6.0,473.0,16.0,164.0,12.0,0
+CID1012,Technology,Small,Starter,2.0,517.0,5.0,86.0,7.0,1
+CID1013,Financial Services,Small,Enterprise,3.0,476.0,10.0,144.0,4.0,0
+CID1014,Manufacturing,Small,Business,1.0,349.0,5.0,133.0,5.0,1
+CID1015,Retail,Medium,Starter,2.0,658.0,33.0,136.5,11.0,1
+CID1016,Technology,Small,Starter,1.0,389.0,4.0,174.0,6.0,1
+CID1017,Retail,Small,Enterprise,2.0,418.0,3.0,54.0,7.0,1
+CID1018,Financial Services,Small,Enterprise,3.0,467.0,3.0,136.5,8.0,0
+CID1019,Technology,Large,Business,9.0,517.0,30.0,544.0,18.0,1
+CID1020,Technology,Large,Enterprise,2.0,1633.0,15.0,439.0,17.0,1
+CID1021,Manufacturing,Medium,Enterprise,4.0,537.0,6.0,233.0,14.0,1
+CID1022,Hospitality,Small,Business,2.0,235.0,9.0,137.0,7.0,1
+CID1023,Financial Services,Large,Starter,3.0,1900.0,58.0,346.0,8.0,1
+CID1024,Financial Services,Medium,Business,4.0,1157.0,17.0,309.0,10.0,0
+CID1025,Retail,Medium,Business,2.0,241.0,13.0,177.0,20.0,1
+CID1026,Manufacturing,Small,Starter,2.0,195.0,12.0,133.0,3.0,1
+CID1027,Manufacturing,Small,Starter,4.0,261.0,7.0,55.0,2.0,0
+CID1028,Retail,Small,Business,3.0,281.0,7.0,113.0,7.0,0
+CID1029,Technology,Large,Starter,5.0,621.0,10.0,622.0,18.0,1
+CID1030,Technology,Small,Enterprise,2.0,172.0,4.0,128.0,4.0,1
+CID1031,Hospitality,Small,Starter,2.0,229.0,7.0,139.0,4.0,1
+CID1032,Manufacturing,Small,Starter,2.0,308.0,5.0,99.0,4.0,1
+CID1033,Manufacturing,Large,Business,3.0,598.0,13.0,164.0,7.0,1
+CID1034,Manufacturing,Small,Starter,3.0,47.0,5.0,76.0,6.0,1
+CID1035,Retail,Large,Starter,16.0,786.0,25.0,470.0,14.0,1
+CID1036,Retail,Medium,Business,5.0,1209.0,9.0,324.0,13.0,0
+CID1037,Manufacturing,Medium,Enterprise,9.0,223.0,9.0,215.0,8.0,0
+CID1038,Retail,Small,Starter,1.0,291.0,8.0,122.0,6.0,1
+CID1039,Technology,Medium,Starter,2.0,384.0,5.0,151.0,17.0,1
+CID1040,Manufacturing,Medium,Business,4.0,970.0,17.0,155.0,10.0,1
+CID1041,Financial Services,Medium,Enterprise,6.0,806.0,34.0,276.0,9.0,0
+CID1042,Technology,Small,Business,3.0,319.0,11.0,62.0,7.0,0
+CID1043,Manufacturing,Small,Starter,2.0,358.0,6.0,110.0,6.0,1
+CID1044,Financial Services,Small,Starter,3.0,905.0,7.0,102.0,8.0,0
+CID1045,Financial Services,Small,Starter,3.0,249.0,6.0,71.0,5.0,0
+CID1046,Manufacturing,Small,Starter,3.0,571.0,7.0,74.0,7.0,0
+CID1047,Retail,Small,Business,2.0,345.0,6.0,143.0,7.0,0
+CID1048,Technology,Small,Starter,2.0,357.0,5.0,120.0,5.0,1
+CID1049,Retail,Medium,Business,5.0,598.0,18.0,275.0,12.0,0
+CID1050,Retail,Small,Business,4.0,368.0,5.0,76.0,4.0,0
+CID1051,Retail,Large,Business,8.0,1274.0,26.0,539.0,47.0,0
+CID1052,Financial Services,Medium,Starter,7.0,299.0,12.0,126.0,7.0,1
+CID1053,Technology,Small,Business,2.0,327.0,6.0,118.0,9.0,0
+CID1054,Technology,Medium,Business,6.0,1348.0,10.0,127.0,4.0,0
+CID1055,Financial Services,Small,Business,2.0,179.0,7.0,40.0,4.0,1
+CID1056,Manufacturing,Large,Starter,10.0,381.0,25.0,269.0,12.0,1
+CID1057,Technology,Small,Starter,4.0,314.0,6.0,142.0,1.0,0
+CID1058,Retail,Medium,Enterprise,5.0,1280.0,13.0,136.0,5.0,1
+CID1059,Retail,Small,Starter,3.0,182.0,4.0,57.0,1.0,1
+CID1060,Technology,Small,Starter,3.0,295.0,5.0,61.0,1.0,1
+CID1061,Manufacturing,Small,Business,2.0,626.0,5.0,131.0,2.0,1
+CID1062,Technology,Large,Business,4.0,1219.0,30.0,384.0,28.0,1
+CID1063,Financial Services,Medium,Enterprise,8.0,1016.0,18.0,215.0,13.0,0
+CID1064,Technology,Small,Starter,2.0,380.0,5.0,45.0,7.0,1
+CID1065,Technology,Small,Enterprise,3.0,403.0,7.0,101.0,6.0,1
+CID1066,Technology,Small,Starter,2.0,568.0,7.0,99.0,4.0,1
+CID1067,Manufacturing,Medium,Business,6.0,1411.0,17.0,165.0,13.0,0
+CID1068,Retail,Small,Business,2.0,426.0,7.0,143.0,6.0,0
+CID1069,Manufacturing,Small,Starter,3.0,278.0,6.0,126.0,3.0,0
+CID1070,Retail,Medium,Starter,3.0,396.0,13.0,38.0,6.0,1
+CID1071,Manufacturing,Large,Starter,15.0,1093.0,24.0,336.0,25.0,0
+CID1072,Financial Services,Small,Enterprise,3.0,520.0,9.0,187.0,2.0,0
+CID1073,Retail,Medium,Business,6.0,484.0,15.0,275.0,10.0,1
+CID1074,Retail,Small,Enterprise,4.0,568.0,9.0,133.0,12.0,0
+CID1075,Retail,Medium,Business,10.0,1061.0,19.0,409.0,10.0,0
+CID1076,Retail,Small,Business,1.0,199.0,4.0,140.0,6.0,1
+CID1077,Technology,Medium,Business,4.0,677.0,13.0,35.0,7.0,1
+CID1078,Technology,Medium,Starter,4.0,745.0,8.0,105.0,10.0,1
+CID1079,Financial Services,Medium,Starter,2.0,701.0,14.0,193.0,10.0,0
